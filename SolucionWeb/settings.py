@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     "LaGranja",
     "rest_framework",
     "corsheaders",
+    "graphene_django",
 ]
 
 MIDDLEWARE = [
